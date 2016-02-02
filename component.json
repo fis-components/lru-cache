@@ -1,0 +1,10 @@
+{
+    "name": "lru-cache",
+    "description": "A cache object that deletes the least-recently-used items.",
+    "repos": "https://github.com/isaacs/node-lru-cache.git",
+    "main": "lib/lru-cache.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.6.5"
+}
